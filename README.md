@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Salem 👋
 
-<!--
-**salem-mathabq/salem-mathabq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT undergraduate at **Universiti Utara Malaysia (UUM)**, minor in **Artificial Intelligence**, graduating 2027.
+I'm looking for a **6-month internship** in software development or IT.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile:** Kotlin, Android, MVVM, Flutter
+- **Backend:** Firebase (Authentication, Firestore), XAMPP
+- **AI / ML:** Neural Networks (MLP), Gemini API, n8n AI agents, Python
+- **Networking:** Cisco fundamentals, preparing for CCNA
+- **Languages:** Java, Kotlin, Python, Dart
+
+## Projects
+
+- **QalbyCare** — Android mental wellness app for university students (mood tracking, journaling, appointment booking, Gemini-powered AI companion). My Final Year Project.
+- **Loan Approval Prediction (MLP)** — Neural network model deployed as a Streamlit web app.
+- **Forklift & Equipment Rental Website** — Multi-page business website with SEO.
+
+## Get in touch
+
+- 📧 salemmatbak@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/salem-matbhaq-769310402)
